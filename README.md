@@ -48,6 +48,10 @@ S'utilitzen els següents paquets:
 
 # Carpetes i fitxers
 
+Si falla la càrrega dels notebooks, es recomana obrir-los copiant l'enllaç a:
+
+> https://nbviewer.jupyter.org/
+
 · /src:
 
   - Python notebooks del Crawler que obté de les dades i l'anàlisi posterior fet en format .ipynb .
@@ -71,6 +75,10 @@ S'utilitzen els següents paquets:
   - Els notebooks descarregats en format html.
   
   - Dos gràfics interactius en format html, que representen les relacions entre els diferents articles publicats (extret a partir de les referències).
+
+· /pdf:
+  
+  - Conté el pdf amb les respostes de la pràctica.
   
 
 # Recursos
