@@ -1,4 +1,5 @@
-# Pràctica 1 - Fitness_Revolucionario_Scraping
+# Pràctica 1 Tipologia - Web Scraping
+
 # Descripció
 En aquesta pràctica s'implementa un web scraper al blog de Fitness_Revolucionario:
 
