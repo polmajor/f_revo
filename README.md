@@ -1,6 +1,11 @@
 # Pràctica 1 - Fitness_Revolucionario_Scraping
 # Descripció
-En aquesta pràctica s'implementa un web scraper al blog de Fitness_Revolucionario (https://www.fitnessrevolucionario.com/) per obtenir els titulars dels articles, els comentaris i els enllaços de referència. Per això, s'utilitza Python i la llibreria BeautifulSoup, entre altres, per generar un DataSet. 
+En aquesta pràctica s'implementa un web scraper al blog de Fitness_Revolucionario:
+
+> https://www.fitnessrevolucionario.com/
+
+Se n'han obtingut els titulars dels articles, els comentaris i els enllaços de referència. Per això, s'utilitza Python i la llibreria BeautifulSoup, entre altres, per generar un DataSet. 
+
 Per comprovar-ne la utilitat, s'ha fet un Word Cloud dels tòpics del blog (a partir dels titulars), un petit anàlisi evolutiu dels comentaris del blog al llarg dels anys i, per acabar, un anàlisi de sentiments bàsic sobre els comentaris dels articles.
 
 # Membres de l'equip:
