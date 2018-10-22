@@ -4,7 +4,7 @@
 ![alt text](https://github.com/polmajor/f_revo/blob/master/img/word_cloud_fitness_revolucionario_complet.png)
 
 # Descripció
-En aquesta pràctica s'implementa un web scraper al blog de Fitness_Revolucionario sobre salut i esport:
+En aquesta pràctica s'implementa un web scraper al blog de Fitness Revolucionario sobre salut i esport:
 
 > https://www.fitnessrevolucionario.com/
 
