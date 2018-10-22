@@ -1,0 +1,765 @@
+,Polarity
+0,Dolent
+1,Dolent
+2,Bo
+3,Bo
+4,Neutral
+5,Dolent
+6,Dolent
+7,Bo
+8,Neutral
+9,Bo
+10,Bo
+11,Bo
+12,Bo
+13,Bo
+14,Bo
+15,Bo
+16,Bo
+17,Neutral
+18,Bo
+19,Molt Dolent
+20,Bo
+21,Bo
+22,Molt Dolent
+23,Bo
+24,Bo
+25,Bo
+26,Bo
+27,Dolent
+28,Bo
+29,Dolent
+30,Neutral
+31,Bo
+32,Bo
+33,Dolent
+34,Bo
+35,Bo
+36,Bo
+37,Bo
+38,Bo
+39,Bo
+40,Bo
+41,Bo
+42,Dolent
+43,Bo
+44,Molt Dolent
+45,Molt Dolent
+46,Bo
+47,Bo
+48,Bo
+49,Dolent
+50,Bo
+51,Bo
+52,Neutral
+53,Bo
+54,Bo
+55,Dolent
+56,Bo
+57,Bo
+58,Bo
+59,Molt Dolent
+60,Dolent
+61,Neutral
+62,Neutral
+63,Neutral
+64,Bo
+65,Bo
+66,Bo
+67,Bo
+68,Bo
+69,Bo
+70,Dolent
+71,Neutral
+72,Neutral
+73,Dolent
+74,Neutral
+75,Bo
+76,Bo
+77,Bo
+78,Bo
+79,Bo
+80,Bo
+81,Bo
+82,Bo
+83,Bo
+84,Bo
+85,Dolent
+86,Bo
+87,Bo
+88,Bo
+89,Bo
+90,Molt Dolent
+91,Dolent
+92,Bo
+93,Bo
+94,Bo
+95,Bo
+96,Bo
+97,Molt Dolent
+98,Dolent
+99,Neutral
+100,Bo
+101,Molt Dolent
+102,Bo
+103,Bo
+104,Dolent
+105,Bo
+106,Bo
+107,Neutral
+108,Dolent
+109,Neutral
+110,Molt Dolent
+111,Bo
+112,Neutral
+113,Molt Dolent
+114,Bo
+115,Bo
+116,Dolent
+117,Bo
+118,Bo
+119,Dolent
+120,Neutral
+121,Bo
+122,Dolent
+123,Bo
+124,Neutral
+125,Bo
+126,Dolent
+127,Bo
+128,Dolent
+129,Dolent
+130,Bo
+131,Dolent
+132,Bo
+133,Dolent
+134,Bo
+135,Bo
+136,Neutral
+137,Neutral
+138,Molt Dolent
+139,Dolent
+140,Bo
+141,Bo
+142,Bo
+143,Bo
+144,Neutral
+145,Bo
+146,Dolent
+147,Bo
+148,Neutral
+149,Molt Dolent
+150,Bo
+151,Bo
+152,Bo
+153,Molt Dolent
+154,Bo
+155,Bo
+156,Bo
+157,Bo
+158,Bo
+159,Dolent
+160,Bo
+161,Bo
+162,Bo
+163,Dolent
+164,Bo
+165,Dolent
+166,Bo
+167,Bo
+168,Dolent
+169,Bo
+170,Bo
+171,Dolent
+172,Bo
+173,Bo
+174,Bo
+175,Bo
+176,Bo
+177,Bo
+178,Bo
+179,Bo
+180,Bo
+181,Bo
+182,Bo
+183,Bo
+184,Bo
+185,Bo
+186,Bo
+187,Bo
+188,Bo
+189,Bo
+190,Bo
+191,Dolent
+192,Bo
+193,Bo
+194,Dolent
+195,Molt Dolent
+196,Bo
+197,Bo
+198,Bo
+199,Bo
+200,Bo
+201,Dolent
+202,Bo
+203,Bo
+204,Bo
+205,Bo
+206,Bo
+207,Molt Dolent
+208,Bo
+209,Molt Dolent
+210,Bo
+211,Dolent
+212,Bo
+213,Bo
+214,Dolent
+215,Neutral
+216,Bo
+217,Neutral
+218,Bo
+219,Bo
+220,Bo
+221,Bo
+222,Bo
+223,Molt Dolent
+224,Bo
+225,Molt Dolent
+226,Bo
+227,Bo
+228,Dolent
+229,Bo
+230,Neutral
+231,Bo
+232,Bo
+233,Bo
+234,Bo
+235,Bo
+236,Dolent
+237,Neutral
+238,Neutral
+239,Dolent
+240,Neutral
+241,Bo
+242,Dolent
+243,Molt Dolent
+244,Bo
+245,Dolent
+246,Bo
+247,Neutral
+248,Dolent
+249,Dolent
+250,Bo
+251,Bo
+252,Bo
+253,Dolent
+254,Bo
+255,Neutral
+256,Bo
+257,Bo
+258,Bo
+259,Molt Dolent
+260,Bo
+261,Bo
+262,Bo
+263,Dolent
+264,Bo
+265,Bo
+266,Bo
+267,Bo
+268,Bo
+269,Dolent
+270,Bo
+271,Neutral
+272,Molt Dolent
+273,Bo
+274,Bo
+275,Bo
+276,Bo
+277,Bo
+278,Bo
+279,Bo
+280,Molt Dolent
+281,Molt Dolent
+282,Bo
+283,Bo
+284,Bo
+285,Bo
+286,Bo
+287,Bo
+288,Bo
+289,Dolent
+290,Bo
+291,Neutral
+292,Bo
+293,Bo
+294,Bo
+295,Molt Dolent
+296,Dolent
+297,Bo
+298,Neutral
+299,Dolent
+300,Bo
+301,Dolent
+302,Molt Dolent
+303,Bo
+304,Bo
+305,Bo
+306,Dolent
+307,Bo
+308,Bo
+309,Bo
+310,Molt Dolent
+311,Bo
+312,Bo
+313,Bo
+314,Molt Dolent
+315,Bo
+316,Bo
+317,Bo
+318,Molt Dolent
+319,Neutral
+320,Bo
+321,Bo
+322,Neutral
+323,Bo
+324,Molt Dolent
+325,Bo
+326,Bo
+327,Bo
+328,Dolent
+329,Bo
+330,Dolent
+331,Bo
+332,Bo
+333,Dolent
+334,Neutral
+335,Bo
+336,Neutral
+337,Bo
+338,Neutral
+339,Molt Dolent
+340,Dolent
+341,Bo
+342,Bo
+343,Dolent
+344,Dolent
+345,Molt Dolent
+346,Bo
+347,Dolent
+348,Dolent
+349,Bo
+350,Dolent
+351,Dolent
+352,Bo
+353,Molt Dolent
+354,Molt Dolent
+355,Bo
+356,Bo
+357,Bo
+358,Bo
+359,Molt Dolent
+360,Bo
+361,Dolent
+362,Dolent
+363,Bo
+364,Bo
+365,Bo
+366,Bo
+367,Bo
+368,Bo
+369,Bo
+370,Dolent
+371,Dolent
+372,Bo
+373,Bo
+374,Bo
+375,Bo
+376,Bo
+377,Bo
+378,Bo
+379,Dolent
+380,Bo
+381,Bo
+382,Bo
+383,Bo
+384,Bo
+385,Dolent
+386,Neutral
+387,Bo
+388,Neutral
+389,Bo
+390,Bo
+391,Dolent
+392,Bo
+393,Dolent
+394,Bo
+395,Bo
+396,Neutral
+397,Bo
+398,Molt Dolent
+399,Bo
+400,Bo
+401,Neutral
+402,Bo
+403,Molt Dolent
+404,Molt Dolent
+405,Bo
+406,Bo
+407,Bo
+408,Neutral
+409,Bo
+410,Bo
+411,Bo
+412,Bo
+413,Bo
+414,Bo
+415,Bo
+416,Bo
+417,Molt Dolent
+418,Bo
+419,Bo
+420,Bo
+421,Bo
+422,Bo
+423,Bo
+424,Bo
+425,Bo
+426,Molt Dolent
+427,Neutral
+428,Molt Dolent
+429,Bo
+430,Bo
+431,Bo
+432,Bo
+433,Neutral
+434,Bo
+435,Bo
+436,Dolent
+437,Bo
+438,Bo
+439,Bo
+440,Dolent
+441,Bo
+442,Bo
+443,Molt Dolent
+444,Bo
+445,Bo
+446,Bo
+447,Molt Dolent
+448,Bo
+449,Bo
+450,Bo
+451,Dolent
+452,Dolent
+453,Bo
+454,Dolent
+455,Molt Dolent
+456,Bo
+457,Bo
+458,Bo
+459,Neutral
+460,Dolent
+461,Bo
+462,Bo
+463,Bo
+464,Bo
+465,Neutral
+466,Bo
+467,Bo
+468,Molt Dolent
+469,Molt Dolent
+470,Dolent
+471,Bo
+472,Bo
+473,Bo
+474,Dolent
+475,Bo
+476,Bo
+477,Molt Dolent
+478,Bo
+479,Molt Dolent
+480,Bo
+481,Molt Dolent
+482,Molt Dolent
+483,Bo
+484,Dolent
+485,Bo
+486,Neutral
+487,Bo
+488,Dolent
+489,Bo
+490,Neutral
+491,Molt Dolent
+492,Dolent
+493,Dolent
+494,Dolent
+495,Dolent
+496,Bo
+497,Bo
+498,Bo
+499,Bo
+500,Molt Dolent
+501,Bo
+502,Dolent
+503,Dolent
+504,Dolent
+505,Dolent
+506,Dolent
+507,Bo
+508,Bo
+509,Bo
+510,Bo
+511,Dolent
+512,Molt Dolent
+513,Dolent
+514,Bo
+515,Molt Dolent
+516,Dolent
+517,Dolent
+518,Molt Dolent
+519,Bo
+520,Dolent
+521,Bo
+522,Bo
+523,Molt Dolent
+524,Bo
+525,Dolent
+526,Molt Dolent
+527,Molt Dolent
+528,Bo
+529,Bo
+530,Molt Dolent
+531,Bo
+532,Dolent
+533,Dolent
+534,Bo
+535,Bo
+536,Dolent
+537,Dolent
+538,Dolent
+539,Bo
+540,Bo
+541,Bo
+542,Bo
+543,Bo
+544,Bo
+545,Bo
+546,Neutral
+547,Bo
+548,Bo
+549,Dolent
+550,Dolent
+551,Bo
+552,Bo
+553,Molt Dolent
+554,Bo
+555,Bo
+556,Molt Dolent
+557,Bo
+558,Bo
+559,Dolent
+560,Dolent
+561,Bo
+562,Bo
+563,Bo
+564,Bo
+565,Neutral
+566,Bo
+567,Molt Dolent
+568,Dolent
+569,Dolent
+570,Dolent
+571,Bo
+572,Dolent
+573,Bo
+574,Bo
+575,Bo
+576,Bo
+577,Bo
+578,Neutral
+579,Bo
+580,Bo
+581,Dolent
+582,Dolent
+583,Bo
+584,Bo
+585,Dolent
+586,Bo
+587,Bo
+588,Neutral
+589,Neutral
+590,Neutral
+591,Molt Dolent
+592,Bo
+593,Bo
+594,Bo
+595,Bo
+596,Bo
+597,Bo
+598,Bo
+599,Bo
+600,Bo
+601,Bo
+602,Bo
+603,Bo
+604,Bo
+605,Bo
+606,Molt Dolent
+607,Neutral
+608,Molt Dolent
+609,Bo
+610,Bo
+611,Molt Dolent
+612,Neutral
+613,Bo
+614,Bo
+615,Bo
+616,Bo
+617,Molt Dolent
+618,Dolent
+619,Bo
+620,Neutral
+621,Bo
+622,Dolent
+623,Bo
+624,Dolent
+625,Dolent
+626,Molt Dolent
+627,Bo
+628,Bo
+629,Bo
+630,Molt Dolent
+631,Bo
+632,Neutral
+633,Molt Dolent
+634,Bo
+635,Bo
+636,Molt Dolent
+637,Bo
+638,Neutral
+639,Molt Dolent
+640,Bo
+641,Dolent
+642,Neutral
+643,Bo
+644,Molt Dolent
+645,Dolent
+646,Bo
+647,Bo
+648,Bo
+649,Bo
+650,Bo
+651,Bo
+652,Bo
+653,Bo
+654,Bo
+655,Bo
+656,Dolent
+657,Molt Dolent
+658,Bo
+659,Bo
+660,Molt Dolent
+661,Bo
+662,Molt Dolent
+663,Molt Dolent
+664,Bo
+665,Bo
+666,Bo
+667,Bo
+668,Bo
+669,Dolent
+670,Bo
+671,Bo
+672,Bo
+673,Dolent
+674,Dolent
+675,Dolent
+676,Dolent
+677,Molt Dolent
+678,Bo
+679,Dolent
+680,Bo
+681,Molt Dolent
+682,Bo
+683,Molt Dolent
+684,Neutral
+685,Molt Dolent
+686,Dolent
+687,Bo
+688,Bo
+689,Dolent
+690,Dolent
+691,Bo
+692,Dolent
+693,Bo
+694,Molt Dolent
+695,Bo
+696,Molt Dolent
+697,Molt Dolent
+698,Bo
+699,Bo
+700,Bo
+701,Molt Dolent
+702,Bo
+703,Bo
+704,Bo
+705,Bo
+706,Dolent
+707,Dolent
+708,Dolent
+709,Bo
+710,Bo
+711,Bo
+712,Molt Dolent
+713,Dolent
+714,Dolent
+715,Dolent
+716,Bo
+717,Bo
+718,Bo
+719,Dolent
+720,Molt Dolent
+721,Bo
+722,Bo
+723,Bo
+724,Bo
+725,Bo
+726,Bo
+727,Bo
+728,Bo
+729,Bo
+730,Bo
+731,Bo
+732,Molt Dolent
+733,Bo
+734,Bo
+735,Bo
+736,Molt Dolent
+737,Neutral
+738,Dolent
+739,Bo
+740,Molt Dolent
+741,Dolent
+742,Bo
+743,Bo
+744,Bo
+745,Bo
+746,Bo
+747,Dolent
+748,Bo
+749,Bo
+750,Dolent
+751,Bo
+752,Bo
+753,Molt Dolent
+754,Dolent
+755,Bo
+756,Bo
+757,Neutral
+758,Bo
+759,Molt Dolent
+760,Bo
+761,Molt Dolent
+762,Bo
+763,Bo
