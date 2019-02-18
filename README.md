@@ -1,7 +1,7 @@
 # Pràctica 1 Tipologia - Web Scraping 
 
 ## Fitness Revolucionario
-![alt text](https://github.com/polmajor/f_revo/blob/master/img/word_cloud_fitness_revolucionario_complet.png)
+![alt text](https://github.com/polmajor/f_revo/blob/master/img/fr_wordcloud.png)
 
 # Descripció
 En aquesta pràctica s'implementa un web scraper al blog de Fitness Revolucionario sobre salut i esport:
