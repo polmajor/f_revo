@@ -1,22 +1,21 @@
-# Pràctica 1 Tipologia - Web Scraping 
+# Web Scraping 
 
 ## Fitness Revolucionario
 ![alt text](https://github.com/polmajor/f_revo/blob/master/img/fr_wordcloud.png)
 
-# Descripció
-En aquesta pràctica s'implementa un web scraper al blog de Fitness Revolucionario sobre salut i esport:
+# Description
+Web scraping of an Spanish blog about health and fitness:
 
 > https://www.fitnessrevolucionario.com/
 
-Se n'han obtingut els titulars dels articles, els comentaris i els enllaços de referència. Per això, s'utilitza Python i la llibreria BeautifulSoup, entre altres, per generar un DataSet. 
+The generated dataset contains the headlines of the articles, the comments and the reference links. The code is written in Python and it uses the library BeautifulSoup, among others.
 
-Per comprovar-ne la utilitat, s'ha fet un Word Cloud dels tòpics del blog (a partir dels titulars), un petit anàlisi evolutiu dels comentaris del blog al llarg dels anys i, per acabar, un anàlisi de sentiments bàsic sobre els comentaris dels articles.
+To check the utility of the dataset, we made a Word Cloud of the blog topics (from the headlines), performed sentiment analysis of the comments and created association rules between the reference links.
 
-# Membres de l'equip:
-Individualment per **Pol Major i Munich**.
+# Author:
+**Pol Major Munich**.
 
-# Paquets utilitzades:
-S'utilitzen els següents paquets:
+# Packages
 
 > csv
 
@@ -49,42 +48,39 @@ S'utilitzen els següents paquets:
 > indicoio
 
 
-# Carpetes i fitxers
+# Files and folders
 
-Si falla la càrrega dels notebooks, es recomana obrir-los copiant l'enllaç a:
+If the notebooks fail to load, it is recommended to open them by copying the link to:
 
 > https://nbviewer.jupyter.org/
 
 · /src:
 
-  - Python notebooks del Crawler que obté de les dades i l'anàlisi posterior fet en format .ipynb .
+  - Python notebooks of the crawler that obtains the data and the posterior analysis (.ipynb) .
   
-  - Script de R utilitzat per aplicar l'algorisme "apriori" i crear un graf parcial de referències dels articles.
+  - R script used to apply the apriori algorithm, creating a partial graph from the reference links.
   
 · /img:
 
-  - Conté les imatges extretes (gràfics, wordcloud).
+  - Contains the images (graphs, wordcloud).
   
 · /csv:
 
-  - fitness_revo_full.csv conté totes les dades extretes de la web (url, títol, número de comentaris, data de l'article i comentaris).
+  - fitness_revo_full.csv contains the scraped data  (url, headline, number of comments, data and the comments).
   
-  - Fitxers de referències amb i sense encoded.
+  - Link reference files.
   
-  - Fitxer comment_polarity.csv obtingut de l'anàlisi de sentiments dels comentaris.
+  - comment_polarity.csv obtained from the sentiment analysis of the comments.
   
 · /html:
 
-  - Els notebooks descarregats en format html.
+  - The notebooks in html format.
   
-  - Dos gràfics interactius en format html, que representen les relacions entre els diferents articles publicats (extret a partir de les referències).
+  - A couple interactive graphs that repreent the relations between the different published articles.
 
-· /pdf:
-  
-  - Conté el pdf amb les respostes de la pràctica.
   
 
-# Recursos
+# Resources
 
 ● Subirats, L., Calvo, M. (2018). Web Scraping. Editorial UOC.
 
